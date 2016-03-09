@@ -1,0 +1,18 @@
+<pregunta>
+<enunciado>¿Que se entiende por escalabilidad en Sist.Web de Altas Prestaciones?</enunciado>
+<opcionA>La escalabilidad es la capacidad de dar soporte a un numero creciente de usuarios.</opcionA>
+<opcionB>La escalabilidad es la capacidad de actualización software de un servidor.</opcionB>
+<opcionC>La escalabilidad es la tecnica que se utiliza para manejar el trafico de usuarios.</opcionC>
+<opcionD>Todas las anteriores son falsas.</opcionD>
+<solucion>A</solucion>
+</pregunta>
+
+
+<pregunta>
+<enunciado>Existen dos tipos de caídas o problemas de no-disponibilidad que son:</enunciado>
+<opcionA>Tiempo de no-disponibilidad externo y tiempo de no-disponibilidad interno.</opcionA>
+<opcionB>Tiempo de no-disponibilidad aceptado y tiempo de no-disponibilidad inesperado.</opcionB>
+<opcionC>Tiempo de no-disponibilidad activo y tiempo de no-disponibilidad pasivo.</opcionC>
+<opcionD>Tiempo de no-disponibilidad programado y tiempo de no-disponibilidad no programado.</opcionD>
+<solucion>D</solucion>
+</pregunta>

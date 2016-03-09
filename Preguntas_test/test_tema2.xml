@@ -1,0 +1,18 @@
+<pregunta>
+<enunciado>Existen dos tipos de caídas o problemas de no-disponibilidad que son:</enunciado>
+<opcionA>Tiempo de no-disponibilidad externo y tiempo de no-disponibilidad interno.</opcionA>
+<opcionB>Tiempo de no-disponibilidad aceptado y tiempo de no-disponibilidad inesperado.</opcionB>
+<opcionC>Tiempo de no-disponibilidad activo y tiempo de no-disponibilidad pasivo.</opcionC>
+<opcionD>Tiempo de no-disponibilidad programado y tiempo de no-disponibilidad no programado.</opcionD>
+<solucion>D</solucion>
+</pregunta>
+
+
+<pregunta>
+<enunciado>Los tipos de escalabilidad que existen son:</enunciado>
+<opcionA>Escalabilidad vertical y escalabilidad horizontal.</opcionA>
+<opcionB>Escalabilidad ascendente y escalabilidad descendente.</opcionB>
+<opcionC>Sólo existe un tipo de escalabilidad que es la escalabilidad progresiva.</opcionC>
+<opcionD>Escalabilidad simple y escalabilidad compleja.</opcionD>
+<solucion>A</solucion>
+</pregunta>
