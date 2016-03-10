@@ -9,10 +9,10 @@
 
 
 <pregunta>
-<enunciado>Existen dos tipos de caídas o problemas de no-disponibilidad que son:</enunciado>
-<opcionA>Tiempo de no-disponibilidad externo y tiempo de no-disponibilidad interno.</opcionA>
-<opcionB>Tiempo de no-disponibilidad aceptado y tiempo de no-disponibilidad inesperado.</opcionB>
-<opcionC>Tiempo de no-disponibilidad activo y tiempo de no-disponibilidad pasivo.</opcionC>
-<opcionD>Tiempo de no-disponibilidad programado y tiempo de no-disponibilidad no programado.</opcionD>
-<solucion>D</solucion>
+<enunciado>¿Qué entendemos por escalabilidad en Sist.Web de Altas Prestaciones?</enunciado>
+<opcionA>La escalabilidad es la capacidad de dar soporte a un numero creciente de usuarios.</opcionA>
+<opcionB>La escalabilidad es la capacidad de actualización de software.</opcionB>
+<opcionC>La escalabilidad es la técnica que permite crear un sistema web.</opcionC>
+<opcionD>Todas las anteriores son correctas.</opcionD>
+<solucion>A</solucion>
 </pregunta>
