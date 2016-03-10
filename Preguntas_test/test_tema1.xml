@@ -1,10 +1,10 @@
 <pregunta>
-<enunciado>¿Que se entiende por escalabilidad en Sist.Web de Altas Prestaciones?</enunciado>
-<opcionA>La escalabilidad es la capacidad de dar soporte a un numero creciente de usuarios.</opcionA>
-<opcionB>La escalabilidad es la capacidad de actualización software de un servidor.</opcionB>
-<opcionC>La escalabilidad es la tecnica que se utiliza para manejar el trafico de usuarios.</opcionC>
-<opcionD>Todas las anteriores son falsas.</opcionD>
-<solucion>A</solucion>
+<enunciado>Una granja web...</enunciado>
+<opcionA>no puede albergar sitios web.</opcionA>
+<opcionB>puede albergar muchos sitios web correspondeintes a varias empresas.</opcionB>
+<opcionC>solo puede albergar un sitio web.</opcionC>
+<opcionD>no tiene como funcionalidad albergar sitios web.</opcionD>
+<solucion>B</solucion>
 </pregunta>
 
 
