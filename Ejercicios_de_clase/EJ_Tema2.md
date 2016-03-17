@@ -3,15 +3,16 @@
 **Ejercicio T2.1: Calcular la disponibilidad del sistema si tenemos dos réplicas de cada elemento (en total
 3 elementos en cada subsistema).**
 
-| :-------- | :---: | :-----: | :---------: |
-|WEB        |85%    |97,95%   |99,96%       |
-|App        |90%    |99%      |99,9%        |
-|BD         |99,9%  |99,9999% |99,9999999%  |
-|DNS        |98%    |99,96%   |99,992%      |
-|Firewall   |85%    |97,75%   |99,66%       |
-|Switch     |99%    |99,99%   |99,9999%     |
-|CPD        |99,99% |99,99%   |99,99%       |
-|ISP        |95%    |99,75%   |99,9875%     |
+| Elemento   |    1ª  |    2ª    |       3ª     |
+| :--------- | :----: | :------: | :----------: |
+| WEB        | 85%    | 97,95%   | 99,96%       |
+| App        | 90%    | 99%      | 99,9%        |
+| BD         | 99,9%  | 99,9999% | 99,9999999%  |
+| DNS        | 98%    | 99,96%   | 99,992%      |
+| Firewall   | 85%    | 97,75%   | 99,66%       |
+| Switch     | 99%    | 99,99%   | 99,9999%     |
+| CPD        | 99,99% | 99,99%   | 99,99%       |
+| ISP        | 95%    | 99,75%   | 99,9875%     |
 
 
 **Ejercicio T2.2: Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones 
