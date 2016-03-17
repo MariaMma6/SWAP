@@ -1,9 +1,9 @@
 #SWAP-EJERCICIOS DE CLASE TEMA 2
 
-**Ejercicio T2.1: Calcular la disponibilidad del sistema si tenemos dos réplicas de cada elemento (en total
+**Ejercicio T2.1: Calcular la disponibilidad del sistema si tenemos dos rÃ©plicas de cada elemento (en total
 3 elementos en cada subsistema).**
 
-| Elemento   |    1ª  |    2ª    |       3ª     |
+| Elemento   |    1Âª  |    2Âª    |       3Âª     |
 | :--------- | :----: | :------: | :----------: |
 | WEB        | 85%    | 97,95%   | 99,96%       |
 | App        | 90%    | 99%      | 99,9%        |
@@ -15,19 +15,18 @@
 | ISP        | 95%    | 99,75%   | 99,9875%     |
 
 
-**Ejercicio T2.2: Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones 
-altamente disponibles con relativa facilidad.**
 
+**Ejercicio T2.2: Buscar frameworks y librerÃ­as para diferentes lenguajes que permitan hacer aplicaciones 
+altamente disponibles con relativa facilidad.**
 - Microsoft Operations Framework (MOF)
 - Linux HA
 - JQuery
 
-**Ejercicio T2.3: ¿Cómo analizar el nivel de carga de cada uno de los subsistemas en el servidor?
+**Ejercicio T2.3: Â¿CÃ³mo analizar el nivel de carga de cada uno de los subsistemas en el servidor?
 Bsuca herramientas y aprende a usarlas.**
-
-- Nagios (visto en la asignatura Ingeniería de Servidores)
-- Ganglia (visto en la asignatura Ingeniería de Servidores)
-- Munin (visto en la asignatura Ingeniería de Servidores)
+- Nagios (visto en la asignatura IngenierÃ­a de Servidores)
+- Ganglia (visto en la asignatura IngenierÃ­a de Servidores)
+- Munin (visto en la asignatura IngenierÃ­a de Servidores)
 
 **Ejercicio T2.4: Busca ejemplos de balanceadores software y hardware (productos comerciales).**
 - Balanceadores de Cisco
@@ -36,5 +35,5 @@ Bsuca herramientas y aprende a usarlas.**
 - Radware AppDirector OnDemand Switch
 
 **Buscar productos comerciales para servidores de aplicaciones.**
-- WebSphere (visto en la asignatura Ingeniería de Servidores)
+- WebSphere (visto en la asignatura IngenierÃ­a de Servidores)
 - EAServer de Sybase Inc
