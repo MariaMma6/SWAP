@@ -1,0 +1,18 @@
+<pregunta>
+<enunciado>¿Cual es el significado de las siglas "IP"?</enunciado>
+<opcionA>Identity Portable</opcionA>
+<opcionB>Internet Protocol.</opcionB>
+<opcionC>Identify process</opcionC>
+<opcionD>IP no significa nada.</opcionD>
+<solucion>B</solucion>
+</pregunta>
+
+
+<pregunta>
+<enunciado>¿Qué es la Virtual IP (VIP)?</enunciado>
+<opcionA>Es una contraseña que te da acceso a cualquier página web.</opcionA>
+<opcionB>La VIP no tiene nada que ver con la informática.</opcionB>
+<opcionC>Es la contraseña que debemos poner al iniciar sesión en el balanceador.</opcionC>
+<opcionD>Suele ser la IP del balanceador de carga.</opcionD>
+<solucion>D</solucion>
+</pregunta>
