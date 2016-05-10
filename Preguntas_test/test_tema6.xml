@@ -1,0 +1,18 @@
+<pregunta>
+<enunciado>¿Qué entendemos por "cortafuegos" en Sistemas Webs?</enunciado>
+<opcionA>Un cortafuegos se activa en caso de incendio del sistema.</opcionA>
+<opcionB>Un cortafuegos protege el sistema de accesos indebidos.</opcionB>
+<opcionC>Los sistemas webs no poseen cortafuegos.</opcionC>
+<opcionD>Un cortafuegos deja acceder a todos los usuarios sin necesidad de identificación.</opcionD>
+<solucion>B</solucion>
+</pregunta>
+
+
+<pregunta>
+<enunciado>En cuanto a procedimientos de identificación lo mejor es:</enunciado>
+<opcionA>Una PIN de 4 dígitos como mucho.</opcionA>
+<opcionB>Un escáner de retina, huella dactilar o ADN.</opcionB>
+<opcionC>Una clave alfanumérica fácil de recordar.</opcionC>
+<opcionD>Cualquiera de las anteriores ya que todas son súper efectivas.</opcionD>
+<solucion>B</solucion>
+</pregunta>
