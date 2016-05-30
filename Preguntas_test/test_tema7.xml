@@ -2,7 +2,7 @@
 <enunciado>Para mejorar las prestaciones de los sistemas de almacenamiento hacemos ampliación horizontal que es:</enunciado>
 <opcionA>ampliar el ancho de los servidores.</opcionA>
 <opcionB>replicar el almacenamiento entre varios servidores.</opcionB>
-<opcionC>comprar varios servidoresy tenerlos de reservaen caso de fallo.</opcionC>
+<opcionC>comprar varios servidores y tenerlos de reserva en caso de fallo.</opcionC>
 <opcionD>añadir más espacio al lugar donde se encuentran los servidores, por si es necesario añadir más.</opcionD>
 <solucion>B</solucion>
 </pregunta>
